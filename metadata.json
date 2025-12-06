@@ -1,0 +1,7 @@
+{
+  "name": "Toori AI - AI Music Creator",
+  "description": "A high-fidelity recreation of the Suno AI music creation interface, featuring lyric generation, style tagging, album art creation, video generation, and conversational AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
